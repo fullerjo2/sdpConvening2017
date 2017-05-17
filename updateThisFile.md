@@ -11,7 +11,7 @@
 - [x]	Roxana Del Campo
 - [X]	Tara Chiatovich
 - [x]	Deborah Donovan
-- [ ]	Jon Fullerton
+- [x]	Jon Fullerton
 - [X]	Thomas Hay
 - [ ]	Kathryn Johnson
 - [X]	Jared Knowles
